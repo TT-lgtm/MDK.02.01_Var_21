@@ -1,0 +1,4 @@
+X:\ОАиП\Проект\saper\saper\saper\x64\Debug\saper.vcxproj.AssemblyReference.cache
+X:\ОАиП\Проект\saper\saper\saper\x64\Debug\saper.vcxproj.SuggestedBindingRedirects.cache
+X:\ОАиП\Проект\saper\saper\saper\x64\Debug\saper.MyForm.resources
+X:\ОАиП\Проект\saper\saper\saper\x64\Debug\saper.vcxproj.GenerateResource.cache
