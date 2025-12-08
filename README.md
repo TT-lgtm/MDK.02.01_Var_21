@@ -16,3 +16,6 @@ https://github.com/TT-lgtm/MDK.02.01_Var_21/tree/Practice
 - Тест-кейсы;
 - Проверочная работа №1;
 - Проверочная работа №2;
+https://github.com/TT-lgtm/MDK.02.01_Var_21/tree/Individual
+Индивидуальное задание по теме: Игра Сапёр
+Представлено техническое задание, презентацая и сама программа в Visual Studio 2022
